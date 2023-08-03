@@ -6,11 +6,6 @@ PDF文件是实验报告，里面包含实验结果
 
 涉及的库包含
 
-import gmpy2
-import math
-import time
-import hashlib
-import hmac
-import binascii
+gmpy2、math、time、hashlib、hmac、binascii
 
-代码直接运行即可
+以上库安装完成后代码直接运行即可
