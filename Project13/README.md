@@ -1,7 +1,9 @@
 项目名：Implement the above ECMH scheme
 
-实现方式：Python
+实现方式：Python、vscode
 
-涉及的库：gmpy2、
+涉及的库：gmpy2、sympy
 
-代码直接运行
+如果安装完库后代码直接运行
+
+PDF是实验报告，包含实验结果
