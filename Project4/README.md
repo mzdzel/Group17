@@ -1,7 +1,7 @@
 项目名：do your best to optimize SM3 implementation (software)
 # 实验完成人
 程雨森
-学号：20210040090
+学号：202100460090
 # 运行指导
 代码可以直接运行
 # 处理器信息：
